@@ -1,0 +1,13 @@
+Date,Region,Salesperson,Product,Units_Sold,Unit_Price
+2024-01-05,North,Alice,TV,10,300
+2024-01-06,South,Bob,Mobile,20,200
+2024-01-07,East,Charlie,Laptop,5,800
+2024-01-08,West,David,TV,7,290
+2024-02-01,North,Alice,Mobile,15,210
+2024-02-03,South,Bob,Laptop,8,820
+2024-02-10,East,Charlie,TV,9,310
+2024-02-11,West,David,Mobile,13,215
+2024-03-01,North,Alice,Laptop,6,790
+2024-03-05,South,Bob,TV,11,295
+2024-03-06,East,Charlie,Mobile,12,205
+2024-03-07,West,David,Laptop,4,810
